@@ -22,6 +22,7 @@
 
 - [WePY：组件化的小程序开发框架](https://github.com/Tencent/wepy) :100:
 - [WePY 开发资源汇总](https://github.com/aben1188/awesome-wepy) :100:
+- [小程序云开发资源汇总](https://github.com/TencentCloudBase/awesome-tcb) :100:
 
 ## 官方文档
 
